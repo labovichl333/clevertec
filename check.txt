@@ -1,0 +1,14 @@
+CASH RECEIPT
+Green
+Tel: +375299022497
+2022.12.22 at 20:17:49
+QTY  DESCRIPTION       PRICE       TOTAL
+----------------------------------------
+11   Milk              1.70       18.70
+                     share price: 16.82
+5    Beer              2.10       10.50
+10   Sausage           5.60       56.00
+----------------------------------------
+Taxable TOT.                      83.32
+VAT 10 %                           8.33
+TOTAL                             74.99
